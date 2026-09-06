@@ -1,6 +1,6 @@
 # 🧬 CRISPR CRYPTO SYSTEM - CRISPR Cryptographic Suite
 
-![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6?style=flat&logo=windows)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20Universal-0078D6?style=flat&logo=apple)
 ![License](https://img.shields.io/badge/License-Proprietary%20Freeware-25c29e?style=flat)
 ![Author](https://img.shields.io/badge/Author-Rino%20Petrozziello-d946ef?style=flat)
 ![Release](https://img.shields.io/badge/Version-v1.0.0-brightgreen?style=flat)
@@ -38,14 +38,23 @@ The software translates standard human information into synthetic nucleic acid s
 
 ## 💻 System Requirements
 
+### 🪟 Windows
 * **Operating System:** Windows 10 or Windows 11 (64-bit)
 * **Architecture:** x64
-* **Memory (RAM):** 512 MB minimum
+* **Memory (RAM):** 512 MB minimum (1 GB recommended)
 * **Disk Space:** ~50 MB for installation
 
 ---
 
-## 📥 Installation
+### 🍏 macOS
+* **Operating System:** macOS 10.15 (Catalina) or later (Big Sur, Monterey, Ventura, Sonoma, Sequoia)
+* **Architecture:** Universal Binary (Native support for both **Intel x86_64** and **Apple Silicon M1/M2/M3/M4**)
+* **Memory (RAM):** 512 MB minimum (1 GB recommended)
+* **Disk Space:** ~60 MB for installation
+
+---
+
+## 📥 Installation Windows
 
 1. Navigate to the **[Releases Tab](../../releases/latest)** of this repository.
 2. Download the official installer: `CRISPR-CRYPTO-SYSTEM_x64_Setup.exe`.
@@ -54,9 +63,22 @@ The software translates standard human information into synthetic nucleic acid s
 
 ---
 
+
 > ℹ️ **Note for Windows SmartScreen:**  
 > Since this is a newly released standalone package without a paid commercial certificate, Windows SmartScreen might display a prompt stating *"Windows protected your PC"*.  
 > To proceed with the installation: Click **"More info"** (Ulteriori informazioni) and then **"Run anyway"** (Esegui comunque). The software is 100% safe, clean, and contains no telemetry or malicious code.
+
+---
+
+## 🍏 Installation macOS (Intel & Apple Silicon)
+
+1. Download `DNA_Crypto_0.1.0_universal.dmg` from the Releases section.
+2. Open the `.dmg` file and drag **DNA Crypto** into your `Applications` folder.
+3. *Note for macOS Gatekeeper:* If macOS blocks the app on first launch (unidentified developer), right-click the app in Applications and click **Open**, or run in Terminal:
+   ```bash
+   xattr -cr "/Applications/DNA Crypto.app"
+
+---
 
 ## 📜 Intellectual Property & License
 
