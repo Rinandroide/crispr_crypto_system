@@ -1,0 +1,77 @@
+================================================================================
+END-USER SOFTWARE LICENSE AGREEMENT (EULA) - PROPRIETARY & CONFIDENTIAL
+================================================================================
+Software Name: CRISPR CRYPTO SYSTEM - CRISPR Cryptographic Suite
+Copyright (c) 2026 Rino Petrozziello. All Rights Reserved.
+Author & Creator: Rino Petrozziello
+
+PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, 
+OR USING THIS SOFTWARE.
+
+--------------------------------------------------------------------------------
+1. GRANT OF LICENSE
+--------------------------------------------------------------------------------
+The Author, Rino Petrozziello, grants you a personal, non-exclusive, 
+non-transferable, and revocable license to download, install, and execute this 
+Software free of charge solely for personal, educational, research, and 
+evaluation purposes.
+
+--------------------------------------------------------------------------------
+2. INTELLECTUAL PROPERTY & PROPRIETARY RIGHTS
+--------------------------------------------------------------------------------
+The Software, including without limitation its source code, object code, 
+algorithms, cryptographic implementations, biological simulation routines 
+(including CRISPR injection mechanisms), visual design, user interface, 
+animations, and associated documentation, is and remains the sole and exclusive 
+intellectual property of Rino Petrozziello. 
+
+This Agreement does not convey to you any ownership rights or interest in or to 
+the Software.
+
+--------------------------------------------------------------------------------
+3. RESTRICTIONS ON USE & NON-REPLICATION
+--------------------------------------------------------------------------------
+You expressly agree NOT to, and will not permit others to:
+
+a) Reverse engineer, decompile, disassemble, decrypt, unpack, or otherwise 
+   attempt to derive the source code, underlying structure, or algorithms of the 
+   Software;
+b) Copy, duplicate, clone, replicate, modify, translate, or create derivative 
+   works based on the Software or any part thereof;
+c) Distribute, sell, lease, rent, sublicense, assign, host, outsource, or 
+   otherwise commercially exploit the Software;
+d) Extract, reuse, or repurpose any algorithms, graphical components, or design 
+   elements for use in any other software or service;
+e) Remove, alter, or obscure any copyright notices, trademarks, authorship 
+   attributions ("Rino Petrozziello"), or proprietary legends contained within 
+   or displayed by the Software.
+
+--------------------------------------------------------------------------------
+4. TERMINATION
+--------------------------------------------------------------------------------
+This license is effective until terminated. Your rights under this license will 
+terminate automatically without notice if you fail to comply with any of the 
+terms and conditions specified herein. Upon termination, you must cease all use 
+of the Software and destroy all copies in your possession.
+
+--------------------------------------------------------------------------------
+5. DISCLAIMER OF WARRANTIES
+--------------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS 
+OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. 
+THE AUTHOR DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL 
+BE ERROR-FREE OR UNINTERRUPTED.
+
+--------------------------------------------------------------------------------
+6. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+IN NO EVENT SHALL THE AUTHOR, RINO PETROZZIELLO, BE LIABLE FOR ANY DIRECT, 
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, 
+WITHOUT LIMITATION, LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION) 
+ARISING OUT OF THE USE OR INABILITY TO USE THIS SOFTWARE, EVEN IF ADVISED OF 
+THE POSSIBILITY OF SUCH DAMAGE.
+
+================================================================================
+For licensing inquiries, permissions, or support, contact: Rino Petrozziello
+================================================================================
