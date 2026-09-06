@@ -42,22 +42,22 @@ The software translates standard human information into synthetic nucleic acid s
 * **Operating System:** Windows 10 or Windows 11 (64-bit)
 * **Architecture:** x64
 * **Memory (RAM):** 512 MB minimum (1 GB recommended)
-* **Disk Space:** ~50 MB for installation
+* **Disk Space:** ~25 MB for installation
 
 ---
 
 ### 🍏 macOS
 * **Operating System:** macOS 10.15 (Catalina) or later (Big Sur, Monterey, Ventura, Sonoma, Sequoia)
-* **Architecture:** Universal Binary (Native support for both **Intel x86_64** and **Apple Silicon M1/M2/M3/M4**)
+* **Architecture:** Universal Binary (Native support for both **Intel x86_64** and **Apple Silicon**)
 * **Memory (RAM):** 512 MB minimum (1 GB recommended)
-* **Disk Space:** ~60 MB for installation
+* **Disk Space:** ~25 MB for installation
 
 ---
 
 ## 📥 Installation Windows
 
 1. Navigate to the **[Releases Tab](../../releases/latest)** of this repository.
-2. Download the official installer: `CRISPR-CRYPTO-SYSTEM_x64_Setup.exe`.
+2. Download the official installer: `CRISPR.CRYPTO.SYSTEM_1.0.0_x64-setup.exe`.
 3. Launch the setup executable, accept the software license, and complete the installation wizard.
 4. Launch **CRISPR CRYPTO SYSTEM** from your Desktop or Start Menu.
 
@@ -72,11 +72,11 @@ The software translates standard human information into synthetic nucleic acid s
 
 ## 🍏 Installation macOS (Intel & Apple Silicon)
 
-1. Download `DNA_Crypto_0.1.0_universal.dmg` from the Releases section.
+1. Download `CRISPR.CRYPTO.SYSTEM_1.0.0_universal.dmg` from the Releases section.
 2. Open the `.dmg` file and drag **DNA Crypto** into your `Applications` folder.
 3. *Note for macOS Gatekeeper:* If macOS blocks the app on first launch (unidentified developer), right-click the app in Applications and click **Open**, or run in Terminal:
    ```bash
-   xattr -cr "/Applications/DNA Crypto.app"
+   sudo xattr -cr "/Applications/CRISPR CRYPTO SYSTEM.app"
 
 ---
 
