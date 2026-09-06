@@ -9,7 +9,8 @@
 
 The software translates standard human information into synthetic nucleic acid sequences (DNA & RNA), inserts encrypted payloads into host genomic strands, models biological mutation and indel noise, and provides visual bio-statistical analysis.
 
-**DOWNLOAD CRISPR CRYPTO SYSTEM(../../releases/latest)**
+DOWNLOAD SOFTWARE
+**[Releases Tab](../../releases/latest)**
 
 ---
 
