@@ -54,6 +54,10 @@ The software translates standard human information into synthetic nucleic acid s
 
 ---
 
+> ℹ️ **Note for Windows SmartScreen:**  
+> Since this is a newly released standalone package without a paid commercial certificate, Windows SmartScreen might display a prompt stating *"Windows protected your PC"*.  
+> To proceed with the installation: Click **"More info"** (Ulteriori informazioni) and then **"Run anyway"** (Esegui comunque). The software is 100% safe, clean, and contains no telemetry or malicious code.
+
 ## 📜 Intellectual Property & License
 
 **Copyright © 2026 Rino Petrozziello. All Rights Reserved.**
