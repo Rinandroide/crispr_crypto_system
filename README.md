@@ -1,7 +1,7 @@
 # 🧬 CRISPR CRYPTO SYSTEM - CRISPR Cryptographic Suite
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20Universal-0078D6?style=flat&logo=apple)
-[![License](https://img.shields.io/badge/License-Proprietary%20Freeware-25c29e?style=flat)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary%20Freeware-25c29e?style=flat)](LICENSE.txt)
 ![Author](https://img.shields.io/badge/Author-Rino%20Petrozziello-d946ef?style=flat)
 ![Release](https://img.shields.io/badge/Version-v1.0.0-brightgreen?style=flat)
 
