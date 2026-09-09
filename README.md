@@ -16,6 +16,11 @@ DOWNLOAD SOFTWARE
 
 ## 🔬 Core Capabilities & Architecture
 
+### 🔬 Methodological & Algorithmic Specification (Prior Art Disclosure)
+* **Binary-to-Nucleotide Mapping:** Binary payloads are serialized into bitstreams and encoded into 4-state nucleotide representations via 2-bit mapping ($A=00, C=01, G=10, T=11$) or synthetic 3-base codon dictionaries.
+* **Coordinate Targeting & Splicing:** Integration identifies target insertion indices $k$ via parametric offset or key-derived hashing, performing simulated blunt-end strand cleavage followed by sequence concatenation.
+* **Noise & Mutation Engine:** Indel and substitution modeling applies stochastic pseudo-random distributions across nucleotide indices, testing payload recovery resilience against biological degradation models.
+
 ### 1. 💉 CRISPR Sequence Injection & Genomic Steganography
 * **Payload Encoding:** Converts arbitrary text into valid DNA (`A`, `T`, `C`, `G`) or RNA (`A`, `U`, `C`, `G`) base-pair sequences.
 * **Host Insertion:** Allows targeted insertion of encoded payloads into custom or randomly generated host genomes at specific genomic coordinates.
